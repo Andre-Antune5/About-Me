@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Andredzao
+- 👀 I’m interested in being a Computer Engeneer and learning to Program. 
+- 🌱 I’m currently learning 3 languages (C++ , Ocaml , HTML).
+- 💞️ I’m looking to collaborate with big software development companies.
+- 📫 How to reach me : Via mail (aavalentim2@hotmail.com) and Via Discord (Andredzao#0963).
