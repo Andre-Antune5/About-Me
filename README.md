@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Andredzao
-- 👀 I’m interested in being a Computer Engeneer and learning to Program. 
-- 🌱 Programming languages that I  learned: (C , Java, Python, Ocaml , HTML, CSS, Bootstrap, javascript).
-- 💞️ I’m looking to collaborate with big software development companies.
-- 📫 How to reach me : Via mail (aavalentim2@hotmail.com) or Via Discord (Andredzao#0950).
+- 👋 Hi, I'm @Andredzao
+- I'm interested in being a Computer Engineer and learning more about the computer world.
+- Programming languages / frameworks I learned: (C, Kotlin, Java, JavaScript, Python, Ocaml, HTML, CSS, Bootstrap, MySQL).
+- I'm looking to collaborate with software development companies that can give me experience and help me learn more.
+- 📫 How to contact me: Via email (aavalentim2@hotmail.com).
